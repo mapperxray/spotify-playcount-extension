@@ -2,7 +2,7 @@
 
 A small Chrome extension that shows each track's **play count** directly in
 the Spotify **web player** (open.spotify.com) — the same number the desktop
-app used to show next to the track duration.
+app used to show next to the track duration. Vibecoded via Claude.AI
 
 > **Unofficial project.** Not affiliated with, endorsed by, or supported by
 > Spotify AB. "Spotify" is a trademark of Spotify AB, used here only to
